@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cutest mini schnauzer](http://www.tlcschnauzers.com/images/In_Use_Photos/Black/01_09_16_black_male_1.jpg)
